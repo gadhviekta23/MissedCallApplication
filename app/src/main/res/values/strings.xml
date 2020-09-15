@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">MissedCallApplication</string>
+    <string name="missed_call">MissedCall</string>
+    <string name="time_schedule">Time Schedule</string>
+</resources>
